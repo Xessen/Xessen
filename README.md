@@ -12,7 +12,7 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/Xessen2045-blue?style=for-the-badge&logo=discord&logoColor=white)]("")
+[![image](https://img.shields.io/badge/Xessen1813-blue?style=for-the-badge&logo=discord&logoColor=white)]("")
 [![image](https://img.shields.io/badge/Yandex-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seyhmusbaskin@yandex.com)
   
 </div>
