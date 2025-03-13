@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xessen <img src="https://emoji.gg/assets/emoji/4495-jeb-spin.gif" width="32px" height="32px" alt="Jeb_spin"></h1>
-<h3 align="center">A passionate Python,C/C++ Machine Learning developer from Turkey</h3>
+<h3 align="center">A passionate Python,C/C++ Machine Learning developer</h3>
 
-- 🔭 I’m currently studying **Computer Engineering in Ankara University and working on my Seq2Seq Model For NLP Project**
-
-- 🌱 I’m currently learning **everything about Machine Learning**
-
-- 👯 I’m looking to collaborate on **anything not boring**
-
-- ⚡ What I like to do: **I like reading about mythology and techonolgy,playing chess,making things with arduino even im just an amateur...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
